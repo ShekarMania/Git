@@ -1,1 +1,3 @@
 Fixed issue 53
+
+Now completed fixing
